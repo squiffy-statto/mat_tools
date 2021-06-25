@@ -80,8 +80,7 @@
 ***********************************************************************************/;
 
 %*** WRITE MAT_TOOLS TO LOG ***;
-%let toolset = MAT_TOOLS;
-%put NO%upcase(te:) &toolset. included.;
+%put NO%upcase(te:) User written library MAT_TOOLS included.;
 
 proc fcmp outlib = work.functions.mat_tools;
 

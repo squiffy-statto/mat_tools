@@ -6,6 +6,15 @@
 | Date       : 21JUN21 
 *******************************************************************************/;
 
+
+*** UNSTAR THIS CODE WHEN REPO IS MADE PUBLIC ***;
+
+*** INCLUDE TOOLS CODE  ***;
+/*options nosource2;*/
+/*filename code1 url "https://raw.githubusercontent.com/squiffy-statto/mat_tools/main/mat_tools.sas";*/
+/*%include code1;*/
+
+
 *** CHECK EXAMPLES ***;
 data test1;
 
